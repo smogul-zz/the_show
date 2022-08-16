@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48839293676",
+    "project_id": "the-show-b1b12",
+    "storage_bucket": "the-show-b1b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48839293676:android:1c38718e6ace0f28f443c9",
+        "android_client_info": {
+          "package_name": "multiply.africa.the_show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48839293676-25c6n2c6l7dujuja3ur8m3sahve80io0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKBQiowrEuPKnrLqHJ_PpK1Qj9umxlOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48839293676-25c6n2c6l7dujuja3ur8m3sahve80io0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
